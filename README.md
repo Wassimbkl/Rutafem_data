@@ -4,12 +4,13 @@
 This project is developed with the Python version 3.13.9
 
 ## Setup Instructions
-1. Clone the repository to your local machine.
-2. Create a virtual environment:
+1. Fork this repository to your GitHub account.
+2. Clone your forked repository to your local machine.
+3. Create a virtual environment:
    ```bash
    python -m venv .venv
    ```
-3. Activate the virtual environment:
+4. Activate the virtual environment:
    - On Windows:
      ```bash
      .\.venv\Scripts\activate
@@ -18,11 +19,11 @@ This project is developed with the Python version 3.13.9
      ```bash
      source .venv/bin/activate
      ```
-4. Install the required dependencies:
+5. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-5. Run the main application:
+6. Run the main application:
    ```bash
    python main.py
    ```
