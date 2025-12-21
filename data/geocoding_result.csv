@@ -1,0 +1,2 @@
+place_id,licence,osm_type,osm_id,lat,lon,class,type,place_rank,importance,addresstype,name,display_name,boundingbox
+89187853,"Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",way,233503147,48.8533212,2.3437596,highway,pedestrian,26,0.45987298670095283,road,Place Saint-Michel,"Place Saint-Michel, Quartier de la Monnaie, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France","['48.8531625', '48.8535041', '2.3434979', '2.3440291']"

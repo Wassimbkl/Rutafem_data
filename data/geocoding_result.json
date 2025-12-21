@@ -1,0 +1,23 @@
+[
+  {
+    "place_id": 89187853,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 233503147,
+    "lat": "48.8533212",
+    "lon": "2.3437596",
+    "class": "highway",
+    "type": "pedestrian",
+    "place_rank": 26,
+    "importance": 0.45987298670095283,
+    "addresstype": "road",
+    "name": "Place Saint-Michel",
+    "display_name": "Place Saint-Michel, Quartier de la Monnaie, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",
+    "boundingbox": [
+      "48.8531625",
+      "48.8535041",
+      "2.3434979",
+      "2.3440291"
+    ]
+  }
+]
